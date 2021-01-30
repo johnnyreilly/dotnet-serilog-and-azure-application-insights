@@ -126,5 +126,7 @@ Finally we come to the main act. Plugging in Application Insights is as simple a
 
 ![application insights](application-insights-properties.png)
 
+As you can see, we now have the likes of `BuildNumber`, `CommitHash` and friends visible on each log.  Happy diagnostic days!
+
 I'm indebted to the marvellous [Marcel Michau](https://twitter.com/MarcelMichau) who showed me how to get the fiddlier parts of how to get Application Insights plugged in the right way.  Thanks chap!
 
